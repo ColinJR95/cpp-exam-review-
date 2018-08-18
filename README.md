@@ -19,7 +19,7 @@ cin.ignore (1024, \n) //does it up too 1024 characters or until it hits the \n
 
 EXAMPLE 2 
 LOOK UP NULL TERMINATER
-
+#this was the cpp class
 
 
 
